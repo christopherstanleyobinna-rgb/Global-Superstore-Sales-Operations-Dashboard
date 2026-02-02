@@ -1,10 +1,9 @@
 # Global-Superstore-Sales-Operations-Dashboard
-
+![](download.jfif)
 
 ## 📌 Project Overview
 This project analyzes the **Global Superstore dataset** to evaluate sales performance, profitability, customer segments, and operational efficiency.  
 The analysis is presented using two interactive dashboards designed for business decision-making.
-
 ---
 
 ## 🎯 Objectives
@@ -13,7 +12,6 @@ The analysis is presented using two interactive dashboards designed for business
 - Detect top-performing and underperforming countries and products
 - Evaluate profitability across product categories
 - Assess shipping cost efficiency by ship mode
-
 ---
 
 ## 🧾 Dataset
@@ -28,6 +26,7 @@ The dataset contains global transactional sales data including:
 ## 📊 Dashboard Structure
 
 ### 1️⃣ Sales Performance & Trend Analysis
+![](sales dashboard.jpg)
 **KPIs**
 - Total Sales: 12M  
 - Total Profit: 1M  
@@ -45,6 +44,7 @@ The dataset contains global transactional sales data including:
 ---
 
 ### 2️⃣ Product, Profitability & Operations Analysis
+![](sales_dashboard_2.jpg)
 **Visuals**
 - Sales by Category
 - Profit by Category
@@ -55,10 +55,10 @@ The dataset contains global transactional sales data including:
 - Technology products generate the highest sales and profit
 - Furniture has high sales but relatively low profitability
 - Same-day and first-class shipping significantly increase costs
-
 ---
 
 ## 🧠 Business Insights
+1[](11.)
 - Focus growth efforts on high-profit categories (Technology)
 - Optimize shipping strategy to reduce logistics costs
 - Strengthen presence in top-performing countries
@@ -72,12 +72,6 @@ The dataset contains global transactional sales data including:
 - Data Visualization & Dashboard Design
 - GitHub (Documentation & Portfolio)
 
----
-
-## 📷 Dashboard Preview
-_Add dashboard screenshots here_
-
----
 
 ## 📎 Author
 Developed as part of a data analytics learning and portfolio project using real-world business data.
