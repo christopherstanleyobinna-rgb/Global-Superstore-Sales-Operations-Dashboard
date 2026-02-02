@@ -62,7 +62,7 @@ The dataset contains global transactional sales data including:
 ---
 
 ## 🧠 Business Insights
-1[](https://github.com/christopherstanleyobinna-rgb/Global-Superstore-Sales-Operations-Dashboard/blob/main/11.jpeg)
+![](https://github.com/christopherstanleyobinna-rgb/Global-Superstore-Sales-Operations-Dashboard/blob/main/11.jpeg)
 - Focus growth efforts on high-profit categories (Technology)
 - Optimize shipping strategy to reduce logistics costs
 - Strengthen presence in top-performing countries
@@ -78,4 +78,4 @@ The dataset contains global transactional sales data including:
 
 
 ## 📎 Author
-Developed as part of a data analytics learning and portfolio project using real-world business data.
+ developed as part of the **Codeant Technology Hub – Talent Pool Mentorship Program** using real-world business data.
