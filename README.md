@@ -2,8 +2,10 @@
 ![](download.jfif)
 
 ## 📌 Project Overview
-This project analyzes the **Global Superstore dataset** to evaluate sales performance, profitability, customer segments, and operational efficiency.  
+
+ This project was developed as part of the **Codeant Technology Hub – Talent Pool Mentorship Program** and It focuses on analyzing the **Global Superstore dataset** to evaluate sales performance, profitability, customer segments, and operational efficiency.  
 The analysis is presented using two interactive dashboards designed for business decision-making.
+
 ---
 
 ## 🎯 Objectives
@@ -60,7 +62,7 @@ The dataset contains global transactional sales data including:
 ---
 
 ## 🧠 Business Insights
-1[](11.)
+1[](https://github.com/christopherstanleyobinna-rgb/Global-Superstore-Sales-Operations-Dashboard/blob/main/11.jpeg)
 - Focus growth efforts on high-profit categories (Technology)
 - Optimize shipping strategy to reduce logistics costs
 - Strengthen presence in top-performing countries
