@@ -26,7 +26,8 @@ The dataset contains global transactional sales data including:
 ## 📊 Dashboard Structure
 
 ### 1️⃣ Sales Performance & Trend Analysis
-![](sales dashboard.jpg)
+![](https://github.com/christopherstanleyobinna-rgb/Global-Superstore-Sales-Operations-Dashboard/blob/main/sales%20dashboard.jpg)
+
 **KPIs**
 - Total Sales: 12M  
 - Total Profit: 1M  
@@ -45,6 +46,7 @@ The dataset contains global transactional sales data including:
 
 ### 2️⃣ Product, Profitability & Operations Analysis
 ![](sales_dashboard_2.jpg)
+
 **Visuals**
 - Sales by Category
 - Profit by Category
